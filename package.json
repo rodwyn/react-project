@@ -1,0 +1,11 @@
+{
+  "name": "react-project",
+  "version": "0.0.1",
+  "description": "React Project",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm test "
+  },
+  "author": "Ing Rodwyn Moreno",
+  "license": "ISC"
+}
