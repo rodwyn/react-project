@@ -9,3 +9,5 @@ node_modules
 # Mac OSX
 .DS_Store
 
+# dist
+dist
