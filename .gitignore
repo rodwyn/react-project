@@ -1,0 +1,11 @@
+# Ignore configuration files that may contain sensitive information.
+
+# Node JS
+node_modules
+
+# Logs
+*.log
+
+# Mac OSX
+.DS_Store
+

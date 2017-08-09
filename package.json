@@ -7,5 +7,12 @@
     "test": "npm test "
   },
   "author": "Ing Rodwyn Moreno",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "react": "^15.6.1",
+    "typescript": "^2.4.2",
+    "webpack": "^3.5.2",
+    "webpack-server": "^0.1.2"
+  }
 }
