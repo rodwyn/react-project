@@ -7,7 +7,8 @@ class IndexView extends Component {
       <div>
         <h1>IndexView</h1>
         <Link to="/about">About</Link>
-        <div>hola world</div>
+        <Link to="/example01">Example 01</Link>
+        <Link to="/mycourses">My Courses</Link>
       </div>
     );
   }
