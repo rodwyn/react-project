@@ -48,7 +48,7 @@ module.exports = function makeWebpackConfig () {
 		},
 		host: '0.0.0.0',
 		inline: true,
-		port: 3000,
+		port: 3099,
     open: true,
     openPage: '',
 		disableHostCheck: true
