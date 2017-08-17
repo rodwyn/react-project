@@ -15,7 +15,7 @@ class CustomList extends React.Component {
       <ul>
         {
           items.map((item, key) =>
-            <li key={key}>{item}</li>
+            <li key={key}>{item.title}</li>
           )
         }
       </ul>
